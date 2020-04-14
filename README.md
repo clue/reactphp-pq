@@ -13,7 +13,7 @@ You can either be patient and wait for general availability or
 consider becoming a [sponsor on GitHub](https://github.com/sponsors/clue) for early access.
 
 Do you sponsor me on GitHub? Thank you for supporting sustainable open-source, you're awesome!
-The prototype is available here: [https://github.com/clue/reactphp-pq-incubator](https://github.com/clue/reactphp-pq-incubator).
+The prototype is available here: [https://github.com/clue-labs/reactphp-pq-incubator](https://github.com/clue-labs/reactphp-pq-incubator).
 
 Support open-source and join the [**clue·labs** incubator club](https://github.com/clue-labs) ❤️
 
