@@ -5,6 +5,8 @@ built on top of [ReactPHP](https://reactphp.org/).
 
 ## Install
 
+[![A clue·access project](https://raw.githubusercontent.com/clue-access/clue-access/main/clue-access.png)](https://github.com/clue-access/clue-access)
+
 *This project is currently under active development,
 you're looking at a temporary placeholder repository.*
 
@@ -13,7 +15,7 @@ You can either be patient and wait for general availability or
 consider becoming a [sponsor on GitHub](https://github.com/sponsors/clue) for early access.
 
 Do you sponsor me on GitHub? Thank you for supporting sustainable open-source, you're awesome!
-The prototype is available here: [https://github.com/clue-access/reactphp-pq](https://github.com/clue-acccess/reactphp-pq).
+The prototype is available here: [https://github.com/clue-access/reactphp-pq](https://github.com/clue-access/reactphp-pq).
 
 Support open-source and join [**clue·access**](https://github.com/clue-access/clue-access) ❤️
 
