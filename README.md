@@ -14,7 +14,7 @@ $file_get_contents(__FILE__)->then(function ($contents) {
     echo $contents;
 }, function (Throwable $e) {
     echo 'Error: ' . $e->getMessage() . PHP_EOL;
-})
+});
 ```
 
 ## Install
