@@ -8,11 +8,11 @@ built on top of [ReactPHP](https://reactphp.org/).
 Once [installed](#install), you can use the following code turn any blocking function (such as PHP's built-in [`file_get_contents()`](https://www.php.net/manual/en/function.file-get-contents.php) function) into a non-blocking one:
 
 ```php
-$file_get_contents = new Clue\React\Pq\Processor($loop, 'file_get_contents');
+$file_get_contents = (new Clue\React\Pq\Executor($loop))->fun('file_get_contents');
 
-$file_get_contents(__FILE__)->then(function ($contents) {
+$file_get_contents(__FILE__)->then(function (string $contents) {
     echo $contents;
-}, function (Throwable $e) {
+}, function (Exception $e) {
     echo 'Error: ' . $e->getMessage() . PHP_EOL;
 });
 ```
